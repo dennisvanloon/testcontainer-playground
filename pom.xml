@@ -8,6 +8,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <modules>
         <module>activemq</module>
+        <module>postgres-jpa</module>
     </modules>
     <packaging>pom</packaging>
     <name>Testcontainer Examples Parent</name>
