@@ -1,4 +1,4 @@
-activemq/target/
+**/target/
 
 ### IntelliJ IDEA ###
 .idea
