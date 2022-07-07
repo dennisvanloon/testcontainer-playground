@@ -9,6 +9,7 @@
     <modules>
         <module>activemq</module>
         <module>postgres-jpa</module>
+        <module>elasticsearch</module>
     </modules>
     <packaging>pom</packaging>
     <name>Testcontainer Examples Parent</name>
